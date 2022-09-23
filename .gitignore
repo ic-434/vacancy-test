@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/qt-html-css-js.pdf
+/prototype
+
 
 # testing
 /coverage
